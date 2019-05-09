@@ -1,5 +1,5 @@
 # quantumfinance
-ES170 Project Spring 2019
+ES170 Project Spring 2019 -- Zach Buttenwieser and Dillon Dunteman
 
 ## File Breakdown
 
