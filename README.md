@@ -1,7 +1,7 @@
 # quantumfinance
 ES170 Project Spring 2019 -- Zach Buttenwieser and Dillon Dunteman
 
-## File Breakdown
+## Files Breakdown
 
   PricingSimulation_vF runs the simulation for the discretized probability distribution of the expected payoff, then shows the quantum-calculated payoffs per number of qubits.
 
